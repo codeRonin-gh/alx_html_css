@@ -1,0 +1,43 @@
+/* Reset some default styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+}
+
+/* Make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Remove list bullets and padding */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Link style */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Style for logo class (to make it stand out) */
+.logo {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+/* Helper class for responsive layout */
+.works_on_smartphone main {
+  flex-direction: column !important;
+}
