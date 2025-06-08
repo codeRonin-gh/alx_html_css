@@ -1,0 +1,50 @@
+header {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.banner {
+  background-image: url('banner.jpg');
+  background-size: cover;
+  height: 400px;
+  color: white;
+  text-align: center;
+}
+.quote {
+  font-size: 24px;
+  font-style: italic;
+  padding: 40px;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+.video-list {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+.video-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  width: 300px;
+}
+.membership {
+  background-color: #e0f7fa;
+  padding: 40px;
+  text-align: center;
+}
+.faq {
+  padding: 30px;
+}
+.faq-question {
+  font-weight: bold;
+  margin-top: 20px;
+}
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
