@@ -60,7 +60,7 @@ This is a fully responsive landing page for a fictional headphone brand, built e
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/alx_html_css.git
+   git clone https://github.com/codeRonin-gh/alx_html_css.git
 
 
 
