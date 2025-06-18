@@ -58,6 +58,14 @@ body {
 /* Hero Section */
 .hero {
   margin-top: 40px;
+
+  /* 🔧 Background image added below */
+  background-image: url('images/bg_wave.svg'); /* Replace with your file name */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 100px 20px;
+  color: white;
 }
 
 .hero h1 {
@@ -126,3 +134,4 @@ body {
     width: 100%;
   }
 }
+
